@@ -73,3 +73,33 @@ footer {
     padding: 20px;
     text-align: center;
 }
+#biography{
+    max-width:1000px;
+    margin:60px auto;
+    padding:40px;
+    background:#ffffff;
+    border-radius:15px;
+    box-shadow:0 0 20px rgba(0,0,0,.15);
+    line-height:2;
+    text-align:justify;
+}
+
+#biography h2{
+    text-align:center;
+    margin-bottom:30px;
+    color:#b30000;
+    font-size:32px;
+}
+
+.bio-image{
+    display:block;
+    width:250px;
+    margin:20px auto;
+    border-radius:15px;
+    box-shadow:0 0 15px rgba(0,0,0,.3);
+}
+
+#biography p{
+    font-size:18px;
+    margin-bottom:20px;
+}
